@@ -1,0 +1,36 @@
+{
+  "blacklisted_files": [
+    "meteor-client",
+    "wurst",
+    "aristois",
+    "bleachhack",
+    "matix",
+    "liquidbounce",
+    "xray",
+    "baritone",
+    "seedcracker",
+    "freecam",
+    "kappaclient",
+    "mathax",
+    "hydra",
+    "rusherhack",
+    "future-client",
+    "impact",
+    "inertia",
+    "kami-blue"
+  ],
+  "blacklisted_classes": [
+    "meteordevelopment.meteorclient.MeteorClient",
+    "net.wurstclient.WurstClient",
+    "me.deftware.client.framework.main.Main",
+    "me.deftware.client.framework.EventTarget",
+    "net.aristois.client.Aristois",
+    "org.bleachhack.BleachHack",
+    "baritone.api.BaritoneAPI",
+    "com.seedfinding.mccore.version.MCVersion",
+    "mathax.client.MathAx",
+    "xyz.emptypvp.kappaclient.KappaClient",
+    "net.liquidbounce.LiquidBounce",
+    "me.x150.hydra.HydraClient"
+  ]
+}
