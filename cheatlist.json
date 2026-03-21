@@ -17,7 +17,14 @@
     "future-client",
     "impact",
     "inertia",
-    "kami-blue"
+    "kami-blue",
+    "emi",
+    "roughlyenoughitems",
+    "jei",
+    "voxelmap",
+    "journeymap",
+    "xaeroworldmap",
+    "xaerominimap"
   ],
   "blacklisted_classes": [
     "meteordevelopment.meteorclient.MeteorClient",
