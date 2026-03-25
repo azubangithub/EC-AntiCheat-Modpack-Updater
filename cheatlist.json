@@ -24,7 +24,10 @@
     "voxelmap",
     "journeymap",
     "xaeroworldmap",
-    "xaerominimap"
+    "xaerominimap",
+    "fullbright",
+    "fullbrightnesstoggle",
+    "gammautils"
   ],
   "blacklisted_classes": [
     "meteordevelopment.meteorclient.MeteorClient",
