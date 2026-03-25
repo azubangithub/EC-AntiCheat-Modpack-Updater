@@ -27,7 +27,17 @@
     "xaerominimap",
     "fullbright",
     "fullbrightnesstoggle",
-    "gammautils"
+    "gammautils",
+    "aristois",
+    "liquidbounce",
+    "mathax",
+    "dd",
+    "earthhack-fabric",
+    "baritone",
+    "cheatutils",
+    "ptr",
+    "chestesp",
+    "advanced-xray-fabric"
   ],
   "blacklisted_classes": [
     "meteordevelopment.meteorclient.MeteorClient",
