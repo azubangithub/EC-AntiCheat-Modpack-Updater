@@ -37,7 +37,8 @@
     "cheatutils",
     "ptr",
     "chestesp",
-    "advanced-xray-fabric"
+    "advanced-xray-fabric",
+    "inventoryprofilesnext"
   ],
   "blacklisted_classes": [
     "meteordevelopment.meteorclient.MeteorClient",
