@@ -34,7 +34,8 @@
     "ptr",
     "chestesp",
     "advanced-xray-fabric",
-    "inventoryprofilesnext"
+    "inventoryprofilesnext",
+    "erd"
   ],
   "blacklisted_classes": [
     "meteordevelopment.meteorclient.MeteorClient",
